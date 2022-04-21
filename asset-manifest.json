@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RecetasReactJs/static/css/main.40cf8d67.css",
+    "main.js": "/RecetasReactJs/static/js/main.55f90a55.js",
+    "static/js/787.3e22468a.chunk.js": "/RecetasReactJs/static/js/787.3e22468a.chunk.js",
+    "index.html": "/RecetasReactJs/index.html",
+    "main.40cf8d67.css.map": "/RecetasReactJs/static/css/main.40cf8d67.css.map",
+    "main.55f90a55.js.map": "/RecetasReactJs/static/js/main.55f90a55.js.map",
+    "787.3e22468a.chunk.js.map": "/RecetasReactJs/static/js/787.3e22468a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40cf8d67.css",
+    "static/js/main.55f90a55.js"
+  ]
+}
